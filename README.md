@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Aaryan Aggarwal and I'm a Junior at Rock Hill High School currently.
 
 <!--
 **Aaryan-A/Aaryan-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
